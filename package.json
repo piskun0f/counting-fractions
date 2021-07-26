@@ -1,6 +1,6 @@
 {
   "name": "counting-fractions",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,6 @@
     "webpack-node-externals": "^3.0.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "jquery": "^3.6.0"
+    "express": "^4.17.1"
   }
 }
