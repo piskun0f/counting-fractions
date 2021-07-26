@@ -1,4 +1,4 @@
-![Node.js version](https://img.shields.io/badge/node-=14.7.0-brightgreen)
+![Node.js version](https://img.shields.io/badge/node-=14.17.0-brightgreen)
 ![Express](https://img.shields.io/badge/express-%5E4.17.1-blue)
 
 # Counting fractions
