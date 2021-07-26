@@ -5,7 +5,7 @@
 
 ## How to install
 
-1. `https://github.com/piskun0f/counting-fractions.git`
+1. `git clone https://github.com/piskun0f/counting-fractions.git`
 
 2. `cd counting-fractions`
 
